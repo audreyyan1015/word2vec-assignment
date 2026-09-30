@@ -1,0 +1,7 @@
+id,algorithm,vector_size,window,epochs,wordsim353_spearman_mean,train_seconds_mean
+E1,CBOW,100,5,50,0.193,2.47
+E2,Skip-gram,100,5,50,0.240,10.38
+E3,Skip-gram,50,5,50,0.212,11.78
+E4,Skip-gram,100,2,50,0.166,5.60
+E5,Skip-gram,100,10,50,0.207,18.31
+E6,Skip-gram,100,5,5,-0.218,1.04
